@@ -21,7 +21,7 @@ function App() {
       },
       location: {
         city: "San Francisco",
-        country: "United States"
+        country: "United States",
       },
       isRemote: true,
     },
